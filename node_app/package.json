@@ -1,0 +1,19 @@
+{
+  "name": "node_demo",
+  "version": "1.0.0",
+  "description": "![Getting Started with Containers and Kubernetes Header Image](https://github.com/do-community/k8s-intro-meetup-kit/blob/master/header.png?raw=true)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/do-community/k8s-intro-meetup-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/do-community/k8s-intro-meetup-kit/issues"
+  },
+  "homepage": "https://github.com/do-community/k8s-intro-meetup-kit#readme"
+}
